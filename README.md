@@ -8,4 +8,4 @@ It is- obviously- slow, underoptimized, and unfinished. The R-end of things is n
 genomics. There is also a major issue with RCaller whereby the visualization function executes correctly but exits the opened window 
 upon completion that I made various attempts at overcoming through use of threads. 
 
-I hope to eventually recreate this using R exclusively to overcome the visualization issue.
+I hope to recreate this using R exclusively to overcome the visualization issue.
