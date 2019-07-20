@@ -1,4 +1,7 @@
 # Intragenic-miR-ExploreR-UI
+
+It hurts me to look at this code. It was composed during the freshman year of my CS degree.
+
 This is meant to provide a graphical user interface to Surajit Bhattacharya's program in R.
 
 The program in R is a tool for biologists that provides a score to be used as a predictor miRNA targets.
